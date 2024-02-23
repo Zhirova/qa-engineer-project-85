@@ -25,16 +25,16 @@
 
 - summary: |
     Проверка возможности создания турнира
-    status: pass
+  status: pass
     
 - summary: |
     Проверка статистики в личном кабинете пользователя
-    status: pass
+  status: pass
     
 - summary: |
     Проверка настроек звука в личном кабинете пользователя
-    status: fail
+  status: fail
 
 - summary: |
     Проверка изменения логина и языка программирования в личном кабинете пользователя
-    status: pass
+  status: pass
