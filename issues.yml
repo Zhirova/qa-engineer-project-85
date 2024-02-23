@@ -1,5 +1,5 @@
+---
 issues:
-
-https://github.com/hexlet-codebattle/codebattle/issues/1716#issuecomment-1940806538 #уровень звука
-https://github.com/hexlet-codebattle/codebattle/issues/1721#issuecomment-1940943058 #тип звука
-https://github.com/hexlet-codebattle/codebattle/issues/1473#issuecomment-1945760565 # сложность игры не соответвует заданной
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1716#issuecomment-1940806538" #уровень звука
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1721#issuecomment-1940943058" #тип звука
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1473#issuecomment-1945760565" # сложность игры не соответвует заданной
